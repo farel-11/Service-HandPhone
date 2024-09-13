@@ -1,2 +1,2 @@
 # Service-HandPhone
-git clone https://github.com/username/repository-name.git
+file:///E:/website/index.html#Lokasi
